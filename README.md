@@ -1,0 +1,2 @@
+# dominojnpserver
+domino + jnpServer
